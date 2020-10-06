@@ -1,0 +1,17 @@
+{
+
+  "name": "Example",
+
+  "description": "Example",
+
+  "version": "0.0.1",
+
+  "main": "website.js",
+
+  "scripts": {
+
+    "start": "node website.js"
+
+  },
+
+}
