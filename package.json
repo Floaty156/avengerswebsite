@@ -4,14 +4,22 @@
 
   "description": "Example",
 
-  "version": "0.0.1",
+  "version": "0.0.0",
 
-  "main": "website.js",
+  "main": "website.html",
 
   "scripts": {
 
-    "start": "node website.js"
+    "start": "node website.html"
 
   },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
 
 }
